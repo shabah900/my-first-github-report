@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    color: forestgreen;
+    font-size: 30px;
+    font-style: italic;
+}
+
+label{
+    display: block;
+    margin-top: 2px;
+}
+footer{
+    text-align: center;
+    
+}
